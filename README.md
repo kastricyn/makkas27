@@ -34,4 +34,4 @@
 - 🔭 I’m currently working on ...
 -->
 - 🌱 I’m currently learning in Saint-Petersburg ITMO University for Programmer
-- 💬 You can write me to ![telegram](https://t.me/KMI02)
+- 💬 You can write me to [telegram](https://t.me/KMI02)
