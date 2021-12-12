@@ -1,3 +1,8 @@
+[![Years Badge](https://badges.pufler.dev/years/makkas27)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/makkas27/makkas27)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/makkas27)](https://badges.pufler.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makkas27)
 ![My stats](https://github-readme-stats.vercel.app/api?username=makkas27&show_icons=true&count_private=true)
 
 
