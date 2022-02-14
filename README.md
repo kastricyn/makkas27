@@ -1,12 +1,15 @@
 [![Years Badge](https://badges.pufler.dev/years/makkas27)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/makkas27/makkas27)](https://badges.pufler.dev)
-<!-- [![Commits Badge](https://badges.pufler.dev/commits/monthly/makkas27)](https://badges.pufler.dev) -->
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/makkas27)](https://badges.pufler.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makkas27)
-![My stats](https://github-readme-stats.vercel.app/api?username=makkas27&show_icons=true&count_private=true)
+- 🌱 Currently I’m learning in Saint-Petersburg ITMO University for Programmer
+- I use JavaSE/EE, Spring, Python, JS, Angular
+- 💬 You always can write me by [telegram](https://t.me/KMI02)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makkas27&layout=compact&langs_count=6&theme=calm)
 
-<br/>
+![My stats](https://github-readme-stats.vercel.app/api?username=makkas27&count_private=true&show_icons=true&theme=calm)
+
 
 <!-- ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ -->
 
@@ -25,20 +28,9 @@
 <!-- <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> -->
 <!-- <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> -->
 
-<br/>
-
-
-
-
-
-<hr/>
-
 <!--
 **makkas27/makkas27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning in Saint-Petersburg ITMO University for Programmer
-- I use JavaSE/EE, Spring, Python, JS, Angular
-- 💬 You always can write me by [telegram](https://t.me/KMI02)
