@@ -7,8 +7,7 @@
 - 💬 You always can write me by [telegram](https://t.me/KMI02)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makkas27&layout=compact&langs_count=6&theme=calm)
-
-![My stats](https://github-readme-stats.vercel.app/api?username=makkas27&count_private=true&show_icons=true&theme=calm)
+![My stats](https://github-readme-stats.vercel.app/api?username=makkas27&layout=compact&count_private=true&show_icons=true&theme=calm)
 
 
 <!-- ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ -->
