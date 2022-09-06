@@ -1,9 +1,6 @@
-[![Years Badge](https://badges.pufler.dev/years/makkas27)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/makkas27/makkas27)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/makkas27)](https://badges.pufler.dev)
-
 - 🌱 Currently I’m learning in Saint-Petersburg ITMO University for Programmer
 - I use JavaSE/EE, Spring, Python, JS, Angular
+- Also Docker, Gitlab CI, Ansible, Vagrant
 - 💬 You always can write me by [telegram](https://t.me/KMI02)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makkas27&layout=compact&langs_count=6&theme=calm)
